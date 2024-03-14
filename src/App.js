@@ -14,7 +14,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1 className="text-center">Hello Data Fetching Assignment</h1>
+      <h1 className="text-center"> Data Fetching Assignment</h1>
       <div className="w-100 d-flex justify-content-center">
         <Button type="button" className="btn btn-primary text-center mt-4"  onClick={fetchData}>
         Fetch User Data
